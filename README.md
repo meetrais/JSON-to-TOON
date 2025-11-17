@@ -25,11 +25,11 @@ A comprehensive guide for converting JSON to TOON format to reduce LLM token usa
 
 ### Key Features
 
-- ** Token Efficient**: 30-60% fewer tokens compared to JSON
-- ** LLM Optimized**: Designed for AI comprehension
-- ** Indentation-Based**: Uses whitespace instead of braces (like YAML)
-- ** Tabular Arrays**: Declares keys once, streams data as rows
-- ** Human Readable**: Clean, easy to debug
+- **Token Efficient**: 30-60% fewer tokens compared to JSON
+- **LLM Optimized**: Designed for AI comprehension
+- **Indentation-Based**: Uses whitespace instead of braces (like YAML)
+- **Tabular Arrays**: Declares keys once, streams data as rows
+- **Human Readable**: Clean, easy to debug
 
 ---
 
