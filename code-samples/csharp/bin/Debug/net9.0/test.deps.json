@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "test/1.0.0": {
+        "dependencies": {
+          "ToonSharp": "1.0.0"
+        },
+        "runtime": {
+          "test.dll": {}
+        }
+      },
+      "ToonSharp/1.0.0": {
+        "runtime": {
+          "lib/net9.0/ToonSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToonSharp/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GC7FEWr9NISULF8PPEGJKADDEhUhz7OwKNwO3gfitIqFMivrGyUWxniibNRE0rTkYgSzedlj71rdazJV3Mm4iQ==",
+      "path": "toonsharp/1.0.0",
+      "hashPath": "toonsharp.1.0.0.nupkg.sha512"
+    }
+  }
+}

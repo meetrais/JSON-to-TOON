@@ -1,0 +1,10 @@
+{
+  "name": "json-to-toon-samples",
+  "version": "1.0.0",
+  "description": "Code samples for JSON to TOON conversion.",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@toon-format/toon": "^1.0.0"
+  }
+}
